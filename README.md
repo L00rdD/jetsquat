@@ -11,9 +11,9 @@
 ## Fonctionnement
 
 **JetSquat** est un jeu programmer en Swift dans lequel l'ont dois se diriger au travers plusieurs obstacles, le personnage est controller au travers les **mouvements** effectuer par l'utilisateur, ceux-ci sont observer au travers la webcam de l'ordinateur et interprétés grâce à un jeu de donnée entrainée au travers de la plateforme **google experiences**, en effet selon les different mouvements :
-	- main ouverte (envol)
-	- poing fermer (tir boule de feu)
-	- aucune main
+- main ouverte (envol)
+- poing fermer (tir boule de feu)
+- aucune main
 le personnage effectueras différentes actions
 
 ## Implémentation
