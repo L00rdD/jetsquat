@@ -1,0 +1,15 @@
+{
+  "name": "jetsquat-express",
+  "version": "1.0.0",
+  "description": "local server to comunicate between swift app and angular app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
